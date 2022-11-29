@@ -1,1 +1,2 @@
-first1
+my second readme
+good to know
